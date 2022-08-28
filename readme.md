@@ -10,7 +10,9 @@ For this particular site, I am using:
 - ReactJs.
 - Webpack.
 
-Keep tuned, for more updates.
+Keep tuned, for more updates :).
+
+For more infor about me, just visit: [My site](https://saturnoman.com/)
 
 _Updates:_
 
