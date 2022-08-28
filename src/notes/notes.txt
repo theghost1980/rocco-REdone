@@ -1,0 +1,9 @@
+Main idea:
+    - The main component to be shown is a "hand made" carrousel.
+        -> This component load the "page" when the user:
+            - click on left/right arrow || hit keyboard arrows.
+        -> by doing this we can set a state, maybe using redux or just context to handle:
+            -> dark/light mode
+            -> user status: visitor, admin, logged.
+                -> the logged(maybe using google or created account, which implies mail confirmation), can download the books and read most recent Rocco's posts.
+                -> this open the possibility to have paid users and payment methods.
