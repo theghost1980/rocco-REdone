@@ -16,5 +16,10 @@ For more infor about me, just visit: [My site](https://saturnoman.com/)
 
 _Updates:_
 
-28/08/2022: - Created the site repo, initial setUp.
-18/03/2023: - Old Site live again in [Gh-pages](https://theghost1980.github.io/roccoOldSite/)
+28/08/2022:
+
+- Created the site repo, initial setUp.
+
+18/03/2023:
+
+- Old Site live again in [Gh-pages](https://theghost1980.github.io/roccoOldSite/)
